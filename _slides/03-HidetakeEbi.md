@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Hidetake Ebi
+Nice to meet you!
 
 ![skitchtocat](https://octodex.github.com/images/skitchtocat.png)
 {: .center}
