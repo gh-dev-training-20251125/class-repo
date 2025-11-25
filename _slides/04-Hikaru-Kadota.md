@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+今日のお昼ご飯は、肉うどんでした🍜
 
 ![dinotocat](https://octodex.github.com/images/dinotocat.png)
 {: .center}
